@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5E5FF1B7-DD99-4338-B911-DD94808DCCF0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XMLParserWithMapKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7B2A96E6-F67D-4824-8E4F-D2C268460F0A</key>
+		<string>https://github.com/wilf16/SimpleMapKitAndXMLImplementation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XMLParserWithMapKit/XMLParserWithMapKit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7B2A96E6-F67D-4824-8E4F-D2C268460F0A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wilf16/SimpleMapKitAndXMLImplementation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7B2A96E6-F67D-4824-8E4F-D2C268460F0A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7B2A96E6-F67D-4824-8E4F-D2C268460F0A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SimpleMapKitAndXMLImplementation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
